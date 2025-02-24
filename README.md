@@ -100,7 +100,7 @@ colcon build
 pip install mavsdk
 pip install aioconsole
 pip install pygame
-sudo apt install ros-humble-ros-gzgarden
+sudo apt install ros-humble-ros-gzharmonic
 pip install "numpy<2.0.0"
 pip install opencv-python
 ```
